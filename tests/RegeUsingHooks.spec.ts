@@ -23,7 +23,7 @@ test.afterEach(async ({ page }) => {
     await page.close(); // पेज बंद करण्यासाठी
 });
 
-test('User registration test', async () => {
+test('User registration test @smoke', async () => {
     // आता इथे पुन्हा initialization करण्याची गरज नाही, थेट steps लिहा
 
     // 'My Account' वर जाऊन 'Register' क्लिक करा

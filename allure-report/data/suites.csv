@@ -1,2 +1,7 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","12841","execute end-to-end test flow @end-to-end","chromium","2026-05-01","passed","2026-05-01","","EndToEnd.spec.ts","",""
+"","7792","User registration test @sanity","chromium","2026-05-03","passed","2026-05-03","","Rege.spec.ts","",""
+"","7523","User login test @smoke","chromium","2026-05-03","passed","2026-05-03","","LoginPage.spec.ts","",""
+"","6111","Add product to cart test @master @regression","chromium","2026-05-02","passed","2026-05-02","","AddToCart.spec.ts","",""
+"","1872","Product search test @master @regression","chromium","2026-05-02","passed","2026-05-02","","Psearch.spec.ts","",""
+"","3198","User logout test @master @regression","chromium","2026-05-02","passed","2026-05-02","","Logout.spec.ts","",""
+"","12096","execute end-to-end test flow @end-to-end","chromium","2026-05-02","passed","2026-05-02","","EndToEnd.spec.ts","",""
